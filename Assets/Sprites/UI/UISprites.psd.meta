@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: ba8e6d6b092b9ee429207a44f9b1fa71
+timeCreated: 1459220912
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Title
+    21300002: Timer_Icon
+    21300004: Timer_Fill
+    21300006: Timer_Overlay
+    21300008: Coin_Icon
+    21300010: Lives_Icon
+    21300012: Btn_01
+    21300014: Btn_02
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Title
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 768
+        width: 755
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123.5, y: -34.5}
+        - {x: -63.5, y: -13.5}
+        - {x: 72.5, y: -19.5}
+        - {x: 176.5, y: -52.5}
+        - {x: 193.5, y: -71.5}
+        - {x: 231.5, y: -70.5}
+        - {x: 254.5, y: -44.5}
+        - {x: 333.5, y: -102.5}
+        - {x: 369.5, y: -60.5}
+        - {x: 369.5, y: -33.5}
+        - {x: 366.5, y: -28.5}
+        - {x: 287.5, y: 37.5}
+        - {x: 252.5, y: 43.5}
+        - {x: 239.5, y: 29.5}
+        - {x: 220.5, y: 0.5}
+        - {x: 237.5, y: 31.5}
+        - {x: 244.5, y: 57.5}
+        - {x: 113.5, y: 114.5}
+        - {x: 99.5, y: 106.5}
+        - {x: 68.5, y: 115.5}
+        - {x: 59.5, y: 116.5}
+        - {x: -23.5, y: 116.5}
+        - {x: -91.5, y: 103.5}
+        - {x: -155.5, y: 98.5}
+        - {x: -324.5, y: 25.5}
+        - {x: -369.5, y: -31.5}
+        - {x: -369.5, y: -59.5}
+        - {x: -357.5, y: -80.5}
+        - {x: -301.5, y: -117.5}
+        - {x: -272.5, y: -117.5}
+        - {x: -253.5, y: -99.5}
+        - {x: -230.5, y: -83.5}
+        - {x: -202.5, y: -62.5}
+    - name: Timer_Icon
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 524
+        width: 239
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109.5, y: 65.5}
+        - {x: 109.5, y: 87.5}
+        - {x: 86.5, y: 112.5}
+        - {x: 67.5, y: 112.5}
+        - {x: 34.5, y: 92.5}
+        - {x: -52.5, y: 79.5}
+        - {x: -98.5, y: 61.5}
+        - {x: -114.5, y: 19.5}
+        - {x: -114.5, y: -54.5}
+        - {x: -108.5, y: -78.5}
+        - {x: -45.5, y: -113.5}
+        - {x: 19.5, y: -113.5}
+        - {x: 64.5, y: -90.5}
+        - {x: 84.5, y: -44.5}
+        - {x: 84.5, y: 23.5}
+    - name: Timer_Fill
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 559
+        width: 463
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 225.5, y: -58}
+        - {x: 227.5, y: -54}
+        - {x: 227.5, y: -51}
+        - {x: 229.5, y: -47}
+        - {x: 229.5, y: -43}
+        - {x: 231.5, y: -39}
+        - {x: 231.5, y: 23}
+        - {x: 230.5, y: 24}
+        - {x: 230.5, y: 27}
+        - {x: 229.5, y: 28}
+        - {x: 229.5, y: 47}
+        - {x: 228.5, y: 48}
+        - {x: 227.5, y: 55}
+        - {x: 225.5, y: 58}
+        - {x: 225.5, y: 61}
+        - {x: 221.5, y: 69}
+        - {x: -231.5, y: 69}
+        - {x: -231.5, y: -69}
+        - {x: 221.5, y: -69}
+        - {x: 223.5, y: -67}
+        - {x: 224.5, y: -63}
+        - {x: 225.5, y: -60}
+    - name: Timer_Overlay
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 302
+        width: 503
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 243.5, y: -51.5}
+        - {x: 247.5, y: -36.5}
+        - {x: 250.5, y: -22.5}
+        - {x: 250.5, y: -8.5}
+        - {x: 251.5, y: -3.5}
+        - {x: 251.5, y: 15.5}
+        - {x: 250.5, y: 18.5}
+        - {x: 249.5, y: 33.5}
+        - {x: 248.5, y: 37.5}
+        - {x: 247.5, y: 43.5}
+        - {x: 246.5, y: 57.5}
+        - {x: 239.5, y: 68.5}
+        - {x: 238.5, y: 71.5}
+        - {x: 237.5, y: 72.5}
+        - {x: -251.5, y: 72.5}
+        - {x: -251.5, y: -72.5}
+        - {x: 234.5, y: -72.5}
+        - {x: 238.5, y: -68.5}
+        - {x: 242.5, y: -56.5}
+      - - {x: 248.5, y: -41.5}
+        - {x: 243.5, y: -47.5}
+        - {x: 240.5, y: -61.5}
+        - {x: 239.5, y: -72.5}
+        - {x: 245.5, y: -72.5}
+        - {x: 248.5, y: -68.5}
+        - {x: 251.5, y: -59.5}
+        - {x: 251.5, y: -41.5}
+    - name: Coin_Icon
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 268
+        width: 226
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 3.5}
+        - {x: 99, y: 56.5}
+        - {x: 26, y: 113.5}
+        - {x: -5, y: 113.5}
+        - {x: -55, y: 93.5}
+        - {x: -109, y: 29.5}
+        - {x: -109, y: -13.5}
+        - {x: -88, y: -64.5}
+        - {x: -76, y: -82.5}
+        - {x: -36, y: -117.5}
+        - {x: -14, y: -117.5}
+        - {x: 56, y: -96.5}
+        - {x: 96, y: -56.5}
+        - {x: 106, y: -34.5}
+    - name: Lives_Icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 245
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96.5, y: -48.5}
+        - {x: 94.5, y: -44.5}
+        - {x: 97.5, y: -33.5}
+        - {x: 118.5, y: -27.5}
+        - {x: 122.5, y: -21.5}
+        - {x: 122.5, y: -10.5}
+        - {x: 117.5, y: -7.5}
+        - {x: 109.5, y: -4.5}
+        - {x: 105.5, y: -0.5}
+        - {x: 108.5, y: -2.5}
+        - {x: 122.5, y: -0.5}
+        - {x: 122.5, y: 0.5}
+        - {x: 107.5, y: 91.5}
+        - {x: 65.5, y: 122.5}
+        - {x: -113.5, y: 122.5}
+        - {x: -115.5, y: 109.5}
+        - {x: -115.5, y: -50.5}
+        - {x: -20.5, y: -122.5}
+        - {x: 85.5, y: -122.5}
+        - {x: 119.5, y: -34.5}
+        - {x: 96.5, y: -38.5}
+        - {x: 95.5, y: -42.5}
+      - - {x: -75.5, y: -45.5}
+        - {x: -78.5, y: -47.5}
+        - {x: -78.5, y: -53.5}
+        - {x: -75.5, y: -61.5}
+        - {x: -68.5, y: -61.5}
+        - {x: -67.5, y: -59.5}
+        - {x: -67.5, y: -51.5}
+        - {x: -72.5, y: -45.5}
+      - - {x: -80.5, y: -35.5}
+        - {x: -80.5, y: -45.5}
+        - {x: -73.5, y: -45.5}
+        - {x: -71.5, y: -42.5}
+        - {x: -70.5, y: -38.5}
+        - {x: -72.5, y: -35.5}
+    - name: Btn_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 255
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 125.5, y: -112}
+        - {x: 127.5, y: -105}
+        - {x: 127.5, y: 105}
+        - {x: 126.5, y: 109}
+        - {x: 124.5, y: 114}
+        - {x: 122.5, y: 117}
+        - {x: 117.5, y: 122}
+        - {x: 111.5, y: 126}
+        - {x: -109.5, y: 126}
+        - {x: -114.5, y: 124}
+        - {x: -124.5, y: 115}
+        - {x: -126.5, y: 103}
+        - {x: -126.5, y: -103}
+        - {x: -124.5, y: -112}
+        - {x: -122.5, y: -115}
+        - {x: -113.5, y: -124}
+        - {x: -108.5, y: -126}
+        - {x: 109.5, y: -126}
+        - {x: 114.5, y: -124}
+        - {x: 121.5, y: -119}
+    - name: Btn_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 21
+        width: 497
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89.5, y: -88.5}
+        - {x: 117.5, y: -96.5}
+        - {x: 158.5, y: -95.5}
+        - {x: 174.5, y: -83.5}
+        - {x: 213.5, y: -95.5}
+        - {x: 217.5, y: -92.5}
+        - {x: 248.5, y: -67.5}
+        - {x: 248.5, y: -54.5}
+        - {x: 242.5, y: -39.5}
+        - {x: 242.5, y: 20.5}
+        - {x: 239.5, y: 71.5}
+        - {x: 222.5, y: 95.5}
+        - {x: 193.5, y: 104.5}
+        - {x: 137.5, y: 104.5}
+        - {x: 98.5, y: 86.5}
+        - {x: 28.5, y: 82.5}
+        - {x: -3.5, y: 104.5}
+        - {x: -34.5, y: 104.5}
+        - {x: -70.5, y: 94.5}
+        - {x: -117.5, y: 87.5}
+        - {x: -146.5, y: 85.5}
+        - {x: -174.5, y: 93.5}
+        - {x: -196.5, y: 98.5}
+        - {x: -231.5, y: 83.5}
+        - {x: -236.5, y: 63.5}
+        - {x: -243.5, y: 27.5}
+        - {x: -248.5, y: -14.5}
+        - {x: -248.5, y: -57.5}
+        - {x: -207.5, y: -104.5}
+        - {x: -108.5, y: -104.5}
+        - {x: -23.5, y: -101.5}
+        - {x: 40.5, y: -92.5}
+        - {x: 50.5, y: -99.5}
+        - {x: 69.5, y: -103.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
